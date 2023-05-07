@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OzzySalmeronLagunas
-- 👀 I’m interested in Software Development and Cloud Computing
-- 🌱 I’m currently learning Java Script and React Native 
+- 👀 I’m interested in Software Development, CyberSecurity, Cloud Computing
+- 🌱 I’m currently learning Java Script, React Native, mySQL  
 - 💞️ I’m looking to collaborate on practice projects and app development
 - 📫 How to reach me: [Twitter @ OzzySalmeron](https://twitter.com/OzzySalmeron)
 
