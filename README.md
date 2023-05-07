@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OzzySalmeronLagunas
+- 👋 Hi, I’m @OzzySalmeronLagunas I work for a Software company and Biotechnology Company currently
 - 👀 I’m interested in Software Development, CyberSecurity, Cloud Computing
 - 🌱 I’m currently learning Java Script, React Native, mySQL  
 - 💞️ I’m looking to collaborate on practice projects and app development
